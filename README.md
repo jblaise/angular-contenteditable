@@ -8,7 +8,7 @@ An AngularJS directive to bind html tags with the `contenteditable` attribute to
 ## Install
 
 ```bash
-bower install angular-contenteditable
+npm install angular-contenteditable
 ```
 
 ## Usage
@@ -48,6 +48,5 @@ element Y as the last element, then the behaviour of the caret is the following:
 
 ```bash
 npm install
-bower install
 grunt
 ```

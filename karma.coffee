@@ -1,7 +1,7 @@
 module.exports = (karma) ->
   toServe = for file in [
-    'bower_components/**/*.css'
-    'bower_components/*/*.js'
+    'nodes_modules/**/*.css'
+    'nodes_modules/**/*.js'
     'test/fixtures/**/*'
   ]
     pattern: file

@@ -11,7 +11,7 @@
     "test": "test"
   },
   "scripts": {
-    "install": "bower install",
+    "start": "bower install",
     "test": "grunt test"
   },
   "repository": "",
